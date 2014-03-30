@@ -1,7 +1,7 @@
-gwu-lecture-visual-social-media
+Reveal slides the way I prefer them
 ===============================
 
-My guest lecture at GWU about visual social media
+Reveal slides ready with my edits
 
 _______
 
